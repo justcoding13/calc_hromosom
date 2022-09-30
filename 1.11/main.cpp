@@ -59,7 +59,7 @@ int main() {
 		xpomocom = xpomocom;
 	} else {
 		cout << "Ошибка: не указан ответ. Будет начислина 1 хромосома за пропуск";
-		xpomocom++
+		xpomocom++;
 	}
 	cout << "\nВы токсик? (1 = да 0 = нет)";
 	cin >> vopros5;
